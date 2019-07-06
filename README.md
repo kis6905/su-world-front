@@ -1,5 +1,8 @@
 # su-world-front
 
+## su world 란?
+게임 플랫폼
+
 ## Project setup
 ```
 npm install
